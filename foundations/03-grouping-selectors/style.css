@@ -1,0 +1,15 @@
+.black {
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.gold {
+    background-color: rgb(215, 215, 73);
+}
+
+.black, .gold{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
